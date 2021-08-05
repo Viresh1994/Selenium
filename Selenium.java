@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 
-public class UnitTest {
+public class Selenium {
 	
 	@Test
 	public void button() 
